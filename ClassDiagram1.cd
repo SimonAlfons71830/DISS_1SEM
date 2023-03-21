@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DISS_1SEM.ContinuousEven">
+    <Position X="2" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAABAAAAAAEAAAIAAAAAAAAAAAAAQAAAACAAA=</HashCode>
+      <FileName>ContinuousEven.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DISS_1SEM.CoreOfSimulation">
+    <Position X="9.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAECAAAAAAAAAAAAAAAAAAIAAABARAUAA=</HashCode>
+      <FileName>CoreOfSimulation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DISS_1SEM.DiscreteEven">
+    <Position X="5.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAABAAAAAAEAAAIAAAAAAAAAAAAAQAAAACAAA=</HashCode>
+      <FileName>DiscreteEven.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DISS_1SEM.Distribution&lt;T&gt;">
+    <Position X="3.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Distribution.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DISS_1SEM.EmpiricalDistribution">
+    <Position X="3.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgABAgAIAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EmpiricalDistribution.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DISS_1SEM.Form1" Collapsed="true">
+    <Position X="5.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACIEAAgAACAEARFAAUCIAQAaAAgAAAAAEGRGAA4kFgE=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DISS_1SEM.ProbabilitySimulator">
+    <Position X="11" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AcYBABIAAAAAEAAAAAAAAAAAIAAAAAAACAAAAATAUAA=</HashCode>
+      <FileName>ProbabilitySimulator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DISS_1SEM.Program">
+    <Position X="7.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DISS_1SEM.RouteSimulation">
+    <Position X="7.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AcYBABIAAAAAEAAAAAAAAAAAIAAAABAAAAAAAATAUAA=</HashCode>
+      <FileName>RouteSimulation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DISS_1SEM.SeedGenerator">
+    <Position X="9.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SeedGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DISS_1SEM.Properties.Resources" Collapsed="true">
+    <Position X="4" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DISS_1SEM.Properties.Settings" Collapsed="true">
+    <Position X="2.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
